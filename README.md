@@ -3,7 +3,7 @@
 This GitHub repo is all about exploring the React Native Reanimated  animation. We will try to explore below-mentioned animation
 - Shared Element Transition
 
-# Library Used Used
+# Library Used 
 - React Native Reanimated
 - React Native Navigation
 
